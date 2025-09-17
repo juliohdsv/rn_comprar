@@ -2,7 +2,6 @@ import {
   TouchableOpacity,TouchableOpacityProps,
   Text, StyleSheet 
 } from "react-native";
-import { CircleCheck } from "lucide-react-native";
 
 import { FilterStatus } from "@/types/FilterStatus";
 import { StatusIcon } from "../FilterStaus";
